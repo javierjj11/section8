@@ -1,2 +1,2 @@
 # section8
-This repository is to do the demonstration fro section 08
+This repository is to do the demonstration for section 08
